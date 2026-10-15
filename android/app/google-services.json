@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993449919226",
+    "project_id": "chase-cloud",
+    "storage_bucket": "chase-cloud.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993449919226:android:32438d370d252b7fdeff43",
+        "android_client_info": {
+          "package_name": "com.example.chase_cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993449919226-cgubhhrpjqrlu0ms476nl3iqd07cnum8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmffTsRJeXm9F8Zq_etXqljoe2O2sX34A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993449919226-cgubhhrpjqrlu0ms476nl3iqd07cnum8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
